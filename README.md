@@ -15,3 +15,8 @@ Send data:
 ```terminal
 cat test.txt | node out/client.js
 ```
+
+Dev mode: (tsc in watch-mode)
+```
+npm run dev
+```
